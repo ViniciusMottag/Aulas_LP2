@@ -6,7 +6,7 @@
 ║ Turma         :  2A (manhã)                                                  ║
 ║ Professor     :  Lucio Nunes de Lira                                         ║
 ║ Aluno         :  Vinicius Motta Grossi                                       ║
-║ Matrícula     :  1800842                                                     ║
+║ Matrícula     :  -------                                                     ║
 ║ Entrega       :  05/09/2018                                                  ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║ Programa      :  AC3 (Classes, objetos, atributos e métodos)                 ║

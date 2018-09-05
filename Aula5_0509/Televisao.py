@@ -12,7 +12,7 @@ class Televisao:
 tv_sala = Televisao(2,50)
 tv_sala.__cmini = 777
 #print('Minimo',tv_sala.__cmini)#cmini com o __ ficou reservado, logo é possível usar fora da classe
-print('Minimo',tv_sala.get_cmini())
+print('Minimo',tv_sala.get_cmini())#usando o metodo que puxa o valor reservado
 #print('Máximo',tv_sala.cmaxi)#cmini com o __ ficou reservado, logo é possível usar fora da classe
 
 tv_quarto = Televisao(1,180)
