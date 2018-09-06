@@ -31,7 +31,7 @@ e com os seguintes métodos:
 '''
 
 class Aluno:
-    def __init__(self):
+    def __init__(self,mediaac=None,mediaprova=None):
         self.nome = 'Vinicius'
         self.matricula = 173801
         self.media = 6.0
