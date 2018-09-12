@@ -35,12 +35,13 @@ class Aluno:
         self.nome = 'Vinicius'
         self.matricula = 173801
         self.media = 6.0
-        self.faltas = 4
+        self.faltas = 7
     def aprovado(self):
-        if self.media >=6 and self.faltas <=6:
-            return True
-        else:
-            return False          
+        #if self.media >=6 and self.faltas <=4:
+            #return True
+        #else:
+            #return False
+        return self.media >=6 and self.faltas <=4  #Retorna True ou False Bol
     def abona_faltas(self,n):
         self.faltas -=n
         if self.faltas >0:
@@ -49,6 +50,7 @@ class Aluno:
             print(0)
 
 valores = Aluno()
-valores.aprovado()
+print('Aprovado: ',valores.aprovado())
 n = int(input('Quantas faltas abonadas?: '))
-valores.abona_faltas(n)
+valor = valores.abona_faltas(n)
+print('Faltas abonadas: ',n,'Faltas atual:',valor,'Aluno aprovado?',valores.aprovado())
