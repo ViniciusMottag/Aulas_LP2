@@ -117,7 +117,6 @@ aluno.set_Nota_AC(8)
 aluno.set_Nota_Prova(8)
 aluno.set_faltas(4)
 
-
 #H)
 print('Media: ',aluno.get_media())
 
