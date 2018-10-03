@@ -1,19 +1,4 @@
 '''
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ Instituição   :  Faculdade Impacta Tecnologia                                ║
-║ Curso         :  Análise e Desenvolvimento de Sistemas                       ║
-║ Disciplina    :  Linguagem de Programação 2                                  ║
-║ Turma         :  2A (manhã)                                                  ║
-║ Professor     :  Lucio Nunes de Lira                                         ║
-║ Aluno         :  Vinicius Motta Grossi                                       ║
-║ Matrícula     :  -------                                                     ║
-║ Entrega       :  05/09/2018                                                  ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║ Programa      :  AC3 (Classes, objetos, atributos e métodos)                 ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-'''
-
-'''
 ────────────────────────────────────────────────────────────────────────────────
 Crie a classe Aluno com os seguintes atributos:
     - Nome      (string)

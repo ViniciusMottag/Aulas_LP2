@@ -1,20 +1,4 @@
 '''
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ Instituição   :  Faculdade Impacta Tecnologia                                ║
-║ Curso         :  Análise e Desenvolvimento de Sistemas                       ║
-║ Disciplina    :  Linguagem de Programação 2                                  ║
-║ Turma         :  2A (manhã)                                                  ║
-║ Professor     :  Lucio Nunes de Lira                                         ║
-║ Aluno         :  Vinicius Motta Grossi                                       ║
-║ Matrícula     :  1800842                                                     ║
-║ Entrega       :  07/09/2018                                                  ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║ Programa      :  AC4 (construtor com parâmetros default, atributos privados, ║
-║                  métodos get() e set()).                                     ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-'''
-
-'''
 ────────────────────────────────────────────────────────────────────────────────
 Com base no arquivo criado na AC3, faça o que se pede a seguir:
 
